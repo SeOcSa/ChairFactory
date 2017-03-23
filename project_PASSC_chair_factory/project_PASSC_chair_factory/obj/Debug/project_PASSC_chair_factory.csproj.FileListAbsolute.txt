@@ -1,0 +1,6 @@
+c:\users\sebastian o. sas\documents\visual studio 2015\Projects\project_PASSC_chair_factory\project_PASSC_chair_factory\bin\Debug\project_PASSC_chair_factory.exe.config
+c:\users\sebastian o. sas\documents\visual studio 2015\Projects\project_PASSC_chair_factory\project_PASSC_chair_factory\bin\Debug\project_PASSC_chair_factory.exe
+c:\users\sebastian o. sas\documents\visual studio 2015\Projects\project_PASSC_chair_factory\project_PASSC_chair_factory\bin\Debug\project_PASSC_chair_factory.pdb
+c:\users\sebastian o. sas\documents\visual studio 2015\Projects\project_PASSC_chair_factory\project_PASSC_chair_factory\obj\Debug\project_PASSC_chair_factory.csprojResolveAssemblyReference.cache
+c:\users\sebastian o. sas\documents\visual studio 2015\Projects\project_PASSC_chair_factory\project_PASSC_chair_factory\obj\Debug\project_PASSC_chair_factory.exe
+c:\users\sebastian o. sas\documents\visual studio 2015\Projects\project_PASSC_chair_factory\project_PASSC_chair_factory\obj\Debug\project_PASSC_chair_factory.pdb
